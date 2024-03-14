@@ -7,7 +7,7 @@
 
 :root{
   --text-color: white;
-  --bg-url: url(./assets/pexels-mat.jpg);/*OBS: Necessário realizar a troca desta imagem que foi removida*/
+  --bg-url: url(./assets/dark.jpg);/*OBS: Necessário realizar a troca desta imagem que foi removida*/
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.5);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
@@ -17,7 +17,7 @@
 
 .light{
   --text-color: black;
-  --bg-url: url(./assets/pexels-cott-03.jpg); /*OBS: Necessário realizar a troca desta imagem que foi removida*/
+  --bg-url: url(./assets/white.jpg); /*OBS: Necessário realizar a troca desta imagem que foi removida*/
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.1);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
